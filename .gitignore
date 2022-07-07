@@ -1,11 +1,7 @@
-##############################
 ## OS X
-##############################
 .DS_Store
 
-##############################
 ## Java
-##############################
 .mtj.tmp/
 *.class
 *.jar
@@ -14,9 +10,7 @@
 *.nar
 hs_err_pid*
 
-##############################
 ## Maven
-##############################
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -29,9 +23,7 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-##############################
 ## IntelliJ
-##############################
 out/
 .idea/
 .idea_modules/
