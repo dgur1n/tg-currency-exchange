@@ -1,3 +1,6 @@
+## project specific
+*.tnk
+
 ## OS X
 .DS_Store
 
